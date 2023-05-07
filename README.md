@@ -1,6 +1,6 @@
 You can view this simple website here :
 
-https://6456ebc1627cb60473b3493e--guileless-crisp-979c6f.netlify.app/
+amazon-best-sellers-tutorial.netlify.app
 
 # Getting Started with Create React App
 
