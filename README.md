@@ -1,3 +1,7 @@
+You can view this simple website here :
+
+https://6456ebc1627cb60473b3493e--guileless-crisp-979c6f.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
